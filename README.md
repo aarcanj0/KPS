@@ -4,7 +4,7 @@ Só um serviço para Windows que vai impedir que o Kaspersky feche inesperadamen
 
 
 
-![](.\01.png)
+![](01.png)
 
 
 
@@ -12,4 +12,4 @@ Só um serviço para Windows que vai impedir que o Kaspersky feche inesperadamen
 
 Simplesmente encerre o serviço no Gerenciador de Tarefas
 
-![](.\02.png)
+![](02.png)
