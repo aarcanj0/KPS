@@ -1,0 +1,9 @@
+C:\Users\guiar\source\repos\KPSIntegrityServices\KPSIntegrityServices\bin\Release\KPSIntegrityServices.exe.config
+C:\Users\guiar\source\repos\KPSIntegrityServices\KPSIntegrityServices\bin\Release\KPSIntegrityServices.exe
+C:\Users\guiar\source\repos\KPSIntegrityServices\KPSIntegrityServices\bin\Release\KPSIntegrityServices.pdb
+C:\Users\guiar\source\repos\KPSIntegrityServices\KPSIntegrityServices\obj\Release\KPSIntegrityServices.csproj.AssemblyReference.cache
+C:\Users\guiar\source\repos\KPSIntegrityServices\KPSIntegrityServices\obj\Release\KPSIntegrityServices.Service1.resources
+C:\Users\guiar\source\repos\KPSIntegrityServices\KPSIntegrityServices\obj\Release\KPSIntegrityServices.csproj.GenerateResource.cache
+C:\Users\guiar\source\repos\KPSIntegrityServices\KPSIntegrityServices\obj\Release\KPSIntegrityServices.csproj.CoreCompileInputs.cache
+C:\Users\guiar\source\repos\KPSIntegrityServices\KPSIntegrityServices\obj\Release\KPSIntegrityServices.exe
+C:\Users\guiar\source\repos\KPSIntegrityServices\KPSIntegrityServices\obj\Release\KPSIntegrityServices.pdb
