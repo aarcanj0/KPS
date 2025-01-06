@@ -4,7 +4,7 @@ Só um serviço para Windows que vai impedir que o Kaspersky feche inesperadamen
 
 
 
-![](C:.\01.png)
+![](.\01.png)
 
 
 
